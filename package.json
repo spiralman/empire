@@ -1,0 +1,14 @@
+{
+  "name": "empire",
+  "version": "0.1.0",
+  "author": "Thomas Stephens <spiralman@gmail.com>",
+  "description": "View rendering for Flatiron",
+  "devDependencies" : {
+    "flatiron": "*",
+    "broadway": "*",
+    "jade": "*",
+    "mocha": "0.14.1",
+    "should": "0.6.0",
+    "gently": "0.9.1"
+  }
+}
